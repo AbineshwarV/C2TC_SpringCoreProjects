@@ -1,2 +1,1 @@
-	
-These Repo contains spring core examples programs
+🏷️These Repo contains spring core examples programs
